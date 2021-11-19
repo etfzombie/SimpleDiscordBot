@@ -45,7 +45,7 @@ if getting all the node_modules doesn't working manually you can install them as
 ------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
 
-///// IF THE INSTALLING PROCESS IS NOT WORKING ENTER THESE CODES INTO A NEW TERMINAL WITH THE FILE ON THE SIDE IN vscode \\\\\
+// IF THE INSTALLING PROCESS IS NOT WORKING ENTER THESE CODES INTO A NEW TERMINAL WITH THE FILE ON THE SIDE IN vscode \\
 
 
 1.  "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned"
@@ -54,9 +54,9 @@ if getting all the node_modules doesn't working manually you can install them as
 
 2.  "set-executionpolicy remotesigned"
 
-######################################################################
-########################  TO GET BOT RUNNING  ########################
-######################################################################
+####################################################################
+######################  TO GET BOT RUNNING  #######################
+####################################################################
 
 
         OPEN A NEW TERMINAL INSIDE OF VSCODE ---->      ctrl & l to clear up terminal 
