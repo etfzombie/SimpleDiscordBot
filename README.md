@@ -69,4 +69,10 @@ Made With node.js & vscode  |  Directions Below  |
 
 --->>>  CHECK DISCORD TO SEE IF IT'S ONLINE 
 
-send " pong " in a channel to see if the bot says " ping " back 
+send " pong " to see if the bot says " ping " back 
+ or any custom command you want 
+###################################################
+
+
+
+
