@@ -13,15 +13,9 @@ Made With node.js & vscode  |  Directions Below  |
 
 
 
-############ HOW TO ADD A BOT & GET THIS WOKRING ############
+# How To Add A Bot
 
-
-You'll need to have node.js and vscode installed 
-
-put these files in a folder with your bots name 
-if getting all the node_modules doesn't working manually you can install them as so
-
-########## MAKE SURE YOU HAVE ALREADY ADDED THE BOT TO YOUR DISCORD ##########
+#####################################################################################
 
     --- make an application 
     --- make webhook url inside of your discord 
@@ -32,9 +26,9 @@ if getting all the node_modules doesn't working manually you can install them as
     --- make sure the bot is offline & added to your discord 
 
 #####################################################################################   
-#####################################################################################
 
-///// installing the need "node_modules" inside of vscode \\\\\
+
+# Installing Node.js In VScode & Creating A Folder
 
 
 1. " open a new terminal in vscode with the folder in vscode as well"
@@ -54,7 +48,7 @@ if getting all the node_modules doesn't working manually you can install them as
 ------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
 
-// IF THE INSTALLING PROCESS IS NOT WORKING ENTER THESE CODES INTO A NEW TERMINAL WITH THE FILE ON THE SIDE IN vscode \\
+# Problems With VScode Terminal
 
 
 1.  "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned"
@@ -63,9 +57,8 @@ if getting all the node_modules doesn't working manually you can install them as
 
 2.  "set-executionpolicy remotesigned"
 
-####################################################
-###############  TO GET BOT RUNNING  ###############
-####################################################
+
+#   TO GET BOT RUNNING  
 
 
         OPEN A NEW TERMINAL INSIDE OF VSCODE ---->      ctrl & l to clear up terminal 
@@ -73,7 +66,8 @@ if getting all the node_modules doesn't working manually you can install them as
     the code ------>   ts-node index.ts
     the terminal should say bot is online or something like that
 
-################ THIS CODE WILL START THE BOT ################
+
+######### THIS CODE WILL START THE BOT #########
 
 --->>>  CHECK DISCORD TO SEE IF IT'S ONLINE 
 
