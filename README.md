@@ -1,6 +1,9 @@
 # SimpleDiscordBot
 Made With node.js & vscode  |  Directions Below  |
 
+# My Custom Bot
+![customz](https://user-images.githubusercontent.com/94527717/142565044-779abee8-e01d-47c0-b4f1-b088ada05412.jpg)
+![zcustomb](https://user-images.githubusercontent.com/94527717/142565057-07fea958-24fe-4eef-82d9-357dbff7b442.jpg)
 
 ## File Example ##
 
