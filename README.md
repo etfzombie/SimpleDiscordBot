@@ -1,6 +1,5 @@
 # SimpleDiscordBot
-Made With node.js & vscode
--- Directions Below -- 
+Made With node.js & vscode  |  Directions Below  |
 
 
 ## File Example ##
