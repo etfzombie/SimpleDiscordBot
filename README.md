@@ -1,23 +1,15 @@
+# SimpleDiscordBot
+Made with node.js &amp; vscode ------ FREE TO COPY &amp; FREE TO CHANGE
 
 
-
-
-
-
-
+## FILE EXAMPLE ##
 ![dbot](https://user-images.githubusercontent.com/94527717/142562980-4306f786-8201-460b-b5e2-c4f0d64be0bd.jpg)
 
 
 
 
-
+## NODE_MODULES EXAMPLE ##
 ![node](https://user-images.githubusercontent.com/94527717/142563019-ebf3a669-c433-4322-bf1b-8fa57457de5a.jpg)
-
-
-
-
-# SimpleDiscordBot
-Made with node.js &amp; vscode ------ FREE TO COPY &amp; FREE TO CHANGE
 
 
 
