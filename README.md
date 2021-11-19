@@ -4,7 +4,7 @@ Made with node.js &amp; vscode ------ FREE TO COPY &amp; FREE TO CHANGE
 
 
 
-################## HOW TO ADD A BOT & GET THIS WOKRING ##################
+############ HOW TO ADD A BOT & GET THIS WOKRING ############
 
 
 You'll need to have node.js and vscode installed 
@@ -12,7 +12,7 @@ You'll need to have node.js and vscode installed
 put these files in a folder with your bots name 
 if getting all the node_modules doesn't working manually you can install them as so
 
-############## MAKE SURE YOU HAVE ALREADY ADDED THE BOT TO YOUR DISCORD ##############
+########## MAKE SURE YOU HAVE ALREADY ADDED THE BOT TO YOUR DISCORD ##########
 
     --- make an application 
     --- make webhook url inside of your discord 
@@ -22,8 +22,8 @@ if getting all the node_modules doesn't working manually you can install them as
     --- post the url in browser & invite the bot to your discord
     --- make sure the bot is offline & added to your discord 
 
-#########################################################################################   
-#########################################################################################
+#####################################################################################   
+#####################################################################################
 
 ///// installing the need "node_modules" inside of vscode \\\\\
 
