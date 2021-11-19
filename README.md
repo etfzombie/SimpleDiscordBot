@@ -15,7 +15,6 @@ Made With node.js & vscode  |  Directions Below  |
 
 # How To Add A Bot
 
-#####################################################################################
 
     --- make an application 
     --- make webhook url inside of your discord 
@@ -24,8 +23,6 @@ Made With node.js & vscode  |  Directions Below  |
     --- then copy the invite url that it will create
     --- post the url in browser & invite the bot to your discord
     --- make sure the bot is offline & added to your discord 
-
-#####################################################################################   
 
 
 # Installing Node.js In VScode & Creating A Folder
@@ -45,8 +42,6 @@ Made With node.js & vscode  |  Directions Below  |
 
 5."tsc -init"
 
-------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------
 
 # Problems With VScode Terminal
 
@@ -58,7 +53,7 @@ Made With node.js & vscode  |  Directions Below  |
 2.  "set-executionpolicy remotesigned"
 
 
-#   TO GET BOT RUNNING  
+#   To Get The Bot Online 
 
 
         OPEN A NEW TERMINAL INSIDE OF VSCODE ---->      ctrl & l to clear up terminal 
