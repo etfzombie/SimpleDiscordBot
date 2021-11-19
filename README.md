@@ -40,7 +40,8 @@ Made With node.js & vscode  |  Directions Below  |
 4. "npm install -g typescript ts-node"
 
 
-5."tsc -init"
+5. "tsc -init"
+
 
 
 # Problems With VScode Terminal
@@ -48,9 +49,10 @@ Made With node.js & vscode  |  Directions Below  |
 
 1.  "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned"
 
---- and if that does't work try ---
+        --- and if that does't work try ---
 
 2.  "set-executionpolicy remotesigned"
+
 
 
 #   To Get The Bot Online 
@@ -59,7 +61,8 @@ Made With node.js & vscode  |  Directions Below  |
         OPEN A NEW TERMINAL INSIDE OF VSCODE ---->      ctrl & l to clear up terminal 
 
     the code ------>   ts-node index.ts
-    the terminal should say bot is online or something like that
+    
+    the terminal should say " bot is online "
 
 
 ######### THIS CODE WILL START THE BOT #########
